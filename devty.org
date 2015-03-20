@@ -1,0 +1,21 @@
+* Tasks
+** TODO Start google summer of code application
+   created: <2015-03-20 Fri>
+
+** TODO Write a blog post about language as a medium of thought
+   created: <2015-03-20 Fri>
+
+** TODO Read Reasoned Schemer
+   created: <2015-03-20 Fri>
+
+** TODO Wtie a blog post on 9 Algorithms, written on ocaml
+   created: <2015-03-20 Fri>
+
+* Working
+** TODO Complete section I of Ocaml tutorial
+   by: <2015-03-22 Sun>
+** TODO Read 1 algo of 9 algos
+   by: <2015-03-22 Sun>
+   
+* Ongoing
+** TODO Look for sublets in NYC

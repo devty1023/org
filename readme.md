@@ -61,9 +61,9 @@
 ## Look for sublets in NYC<a id="sec-3-1" name="sec-3-1"></a>
 
 -   [$775 Brooklyn](http://www.heykorean.com/hkboard/room/rent_view.asp?rkind=1&page=5&id=534708)
-    &#x2013; Killer locationp
-    &#x2013; Why is it so cheap?
+    -   Killer locationp
+    -   Why is it so cheap?
 -   [$1000 Upper Manhattan](http://www.heykorean.com/hkboard/room/rent_view.asp?rkind=1&page=7&id=534261)
-    &#x2013; Nice location
-    &#x2013; Very clean + laundary
-    &#x2013; With roommates (which is a plus)
+    -   Nice location
+    -   Very clean + laundary
+    -   With roommates (which is a plus)

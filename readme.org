@@ -1,21 +1,34 @@
 * Tasks
-** TODO Start google summer of code application
-   created: <2015-03-20 Fri>
+** Start google summer of code application
+   - created: <2015-03-20 Fri>
 
-** TODO Write a blog post about language as a medium of thought
-   created: <2015-03-20 Fri>
+** Write a blog post about language as a medium of thought
+   - created: <2015-03-20 Fri>
 
-** TODO Read Reasoned Schemer
-   created: <2015-03-20 Fri>
+** Read Reasoned Schemer
+   - created: <2015-03-20 Fri>
 
-** TODO Wtie a blog post on 9 Algorithms, written on ocaml
-   created: <2015-03-20 Fri>
+** Write a blog post on 9 Algorithms, written on ocaml
+   - created: <2015-03-20 Fri>
+
 
 * Working
 ** TODO Complete section I of Ocaml tutorial
-   by: <2015-03-22 Sun>
+   - The goal is to become familiar with syntax, see if I like it or not.
+   - by: <2015-03-22 Sun>
+
 ** TODO Read 1 algo of 9 algos
-   by: <2015-03-22 Sun>
+   - I just kind of want to do this.
+   - More like - I want to be done with this.
+   - by: <2015-03-22 Sun>
    
+
 * Ongoing
-** TODO Look for sublets in NYC
+** Look for sublets in NYC
+   - [[http://www.heykorean.com/hkboard/room/rent_view.asp?rkind=1&page=5&id=534708][$775 Brooklyn]]
+     -- Killer locationp
+     -- Why is it so cheap?
+   - [[http://www.heykorean.com/hkboard/room/rent_view.asp?rkind=1&page=7&id=534261][$1000 Upper Manhattan]]
+     -- Nice location
+     -- Very clean + laundary
+     -- With roommates (which is a plus)

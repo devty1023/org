@@ -1,34 +1,40 @@
-* Tasks
-** Start google summer of code application
-   - created: <2015-03-20 Fri>
+* Box
 
 ** Write a blog post about language as a medium of thought
    - created: <2015-03-20 Fri>
 
-** Read Reasoned Schemer
-   - created: <2015-03-20 Fri>
-
-** Write a blog post on 9 Algorithms, written on ocaml
-   - created: <2015-03-20 Fri>
-
-
-* Working
-** TODO Complete section I of Ocaml tutorial
-   - The goal is to become familiar with syntax, see if I like it or not.
+** Write a blog post on 9 Algorithms, written on rust
+   - created: <2015-03-21 Sat>
+** Start google summer of code application
+   - Need to run local SOS server
+   - Look at netCDF backend - what more needs to be done
+   - email the guy who wrote ^
    - by: <2015-03-22 Sun>
 
-** TODO Read 1 algo of 9 algos
-   - I just kind of want to do this.
-   - More like - I want to be done with this.
+** Read Chp. 3 Reasoned Schemer
+   - Should review
    - by: <2015-03-22 Sun>
-   
+
+
+* Queue
+** Reading Rust for Rubyist
+   - New language I would like to learn!
+   - by: <2015-04-05 Sun>
 
 * Ongoing
 ** Look for sublets in NYC
    - [[http://www.heykorean.com/hkboard/room/rent_view.asp?rkind=1&page=5&id=534708][$775 Brooklyn]]
-     - Killer locationp
+     - Killer location
      - Why is it so cheap?
    - [[http://www.heykorean.com/hkboard/room/rent_view.asp?rkind=1&page=7&id=534261][$1000 Upper Manhattan]]
      - Nice location
      - Very clean + laundary
      - With roommates (which is a plus)
+     - No furniture
+   - [[http://www.heykorean.com/hkboard/room/rent_view.asp?rkind=1&page=11&id=533583][$870 - Brooklyn]]
+     - Okay location
+     - With roomate
+     - Term ends 8/7 - problematic
+   - [[http://www.heykorean.com/hkboard/room/rent_view.asp?rkind=1&page=14&id=532797][$750 Brooklyn]]
+     - Nice location
+     - 1Br of 2Br apt

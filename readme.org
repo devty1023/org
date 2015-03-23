@@ -1,25 +1,42 @@
-* Box
+* Queue
+** read/[[https://gist.github.com/oakes/4af1023b6c5162c6f8f0][Rust for Clojurist]]
+   - yet another nice intro to Rust
+   - by: <2015-03-25 Wed> 
+** read/[[http://shaffner.us/cs/papers/tarpit.pdf][Out of Tarpit]]
+   - maybe make a weekly writeup on papers
+   - hacker school had a [[https://www.hackerschool.com/blog/75-goodbye-paper-of-the-week][simliar program]]
+   - by: <2015-03-27 Fri>
 
-** Write a blog post about language as a medium of thought
+* Box
+** write/language as a medium of thought
    - created: <2015-03-20 Fri>
 
-** Write a blog post on 9 Algorithms, written on rust
+** write/9 Algorithms, written on rust
    - created: <2015-03-21 Sat>
-** Start google summer of code application
-   - Need to run local SOS server
-   - Look at netCDF backend - what more needs to be done
+** gsoc/application
+   - am I Really going to do this?
+   - need to run local SOS server
+   - look at netCDF backend - what more needs to be done
    - email the guy who wrote ^
-   - by: <2015-03-22 Sun>
-
-** Read Chp. 3 Reasoned Schemer
+   - by: <2015-03-27 Fri>
+** read/Chp. 3 Reasoned Schemer
    - Should review
    - by: <2015-03-22 Sun>
 
-
-* Queue
-** Reading Rust for Rubyist
-   - New language I would like to learn!
-   - by: <2015-04-05 Sun>
+** read/strom's gaurantee algorithm
+   - [[https://storm.apache.org/documentation/Guaranteeing-message-processing.html][here]]
+** idea/nostalgia for paperbooks
+   - as ebook replace my life, what should I do with shelves?
+   - maybe rough draft a post about this idea
+** idea/better way for FOSS to make money
+   - i expect a plethora of literature on this idea
+** idea/using logic prg to do regex
+   - no idea how
+** idea/sickpea
+   - comprehensive tool accomapnying sicp
+   - use mal
+** idea/better review system
+   - can we do better than a five start system?
 
 * Ongoing
 ** Look for sublets in NYC
